@@ -1,1 +1,1 @@
-# Laboratorio-sulla-progettazione-e-valutazione-dei-servizi-educativi-
+# Laboratorio sulla progettazione e valutazione dei servizi educativi
