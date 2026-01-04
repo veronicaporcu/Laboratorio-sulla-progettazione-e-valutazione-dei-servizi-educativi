@@ -2,8 +2,8 @@
 
 # Laboratorio di gruppo sulla progettazione e valutazione dei servizi educativi
 
-### [PROGETTO EDUCATIVO PERSONALIZZATO DI ANDREA Pei]
- 
+### [PEI - PROGETTO EDUCATIVO PERSONALIZZATO DI ANDREA]
+
 
 #### BREVE DESCRIZIONE DEL CASO
 Andrea si presenta come un bambino introverso, quasi completamente mutacico. Fortemente consapevole delle sue difficoltà, che generano in lui del disagio. Non presenta nessuna disfunzione uditiva; palato, lingua e tonsille sono normoconformate.
