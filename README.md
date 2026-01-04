@@ -2,6 +2,8 @@
 
 # Laboratorio di gruppo sulla progettazione e valutazione dei servizi educativi
 
+Il progetto riguarda l'analisi di un caso clinico reale di un bambino con difficoltà linguistiche e trascuratezza familiare: genitori assenti e poca comunicazione. Eccessivo utilizzo dei videogiochi con importanti ripercussioni sullo sviluppo del linguaggio del bambino principalmente a causa della carenza di interazioni sociali. L’obiettivo di questo progetto PEI è stato quello di proporre soluzioni efficaci di potenziamento del linguaggio verbale in modo da aiutare il bambino a esprimersi e comunicare con gli altri.
+
 ### [PEI - PROGETTO EDUCATIVO PERSONALIZZATO DI ANDREA]
 
 
