@@ -31,14 +31,14 @@ o Mostrare iniziativa nell’espressione linguistica dei bisogni primari
 o Salutare i compagni, le maestre e le persone conosciute all’ingresso e all’uscita dalla scuola
 o Nominare ad alta voce semplici immagini con l’utilizzo di albi illustrati
  
-##### ● Migliorare le capacità attentive e la MBT
-o Riuscire a concentrarsi in una attività sedentaria (puzzle, disegno, lettura) per 15 minuti
-o Seguire una serie di istruzioni semplici predefinite (routine della mattina, dei pasti, della sera)
+*+ Migliorare le capacità attentive e la MBT
+*+ Riuscire a concentrarsi in una attività sedentaria (puzzle, disegno, lettura) per 15 minuti
+*+ Seguire una serie di istruzioni semplici predefinite (routine della mattina, dei pasti, della sera)
  
  
-##### ● Ridurre l’utilizzo dei videogiochi e dei dispositivi elettronici
-o Limitare l’utilizzo dei dispositivi a 4 ore tra mattina e pomeriggio, con ulteriore diminuzione graduale
-o Aumentare il tempo dedicato alla convivialità familiare 
+*+ Ridurre l’utilizzo dei videogiochi e dei dispositivi elettronici
+*+ Limitare l’utilizzo dei dispositivi a 4 ore tra mattina e pomeriggio, con ulteriore diminuzione graduale
+*+ Aumentare il tempo dedicato alla convivialità familiare 
  
  
 #### METODOLOGIE, STRATEGIE E TECNICHE DI INTERVENTO
