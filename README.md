@@ -25,23 +25,24 @@ Infine emerge il bisogno di aumentare la sicurezza di Andrea nelle sue capacità
  
 #### OBIETTIVI GENERICI E SPECIFICI
 Analizzati i bisogni, si propone un elenco di obiettivi su cui fondare il progetto educativo di Andrea. Ogni obiettivo generale sarà suddiviso in obiettivi specifici volti a semplificare l’intervento e la valutazione dei risultati.
-● Sviluppo delle capacità comunicative e linguistiche
+
+##### ● Sviluppo delle capacità comunicative e linguistiche
 o Mostrare iniziativa nell’espressione linguistica dei bisogni primari
 o Salutare i compagni, le maestre e le persone conosciute all’ingresso e all’uscita dalla scuola
 o Nominare ad alta voce semplici immagini con l’utilizzo di albi illustrati
  
-● Migliorare le capacità attentive e la MBT
+##### ● Migliorare le capacità attentive e la MBT
 o Riuscire a concentrarsi in una attività sedentaria (puzzle, disegno, lettura) per 15 minuti
 o Seguire una serie di istruzioni semplici predefinite (routine della mattina, dei pasti, della sera)
  
  
-● Ridurre l’utilizzo dei videogiochi e dei dispositivi elettronici
+##### ● Ridurre l’utilizzo dei videogiochi e dei dispositivi elettronici
 o Limitare l’utilizzo dei dispositivi a 4 ore tra mattina e pomeriggio, con ulteriore diminuzione graduale
 o Aumentare il tempo dedicato alla convivialità familiare 
  
  
-METODOLOGIE, STRATEGIE E TECNICHE DI INTERVENTO
-● Per migliorare la fiducia di Andrea nelle proprie capacità linguistiche, affrontare la difficoltà a esprimersi verbalmente e allenare le sue capacità attentive si prevede l’intervento dell’educatore. 
+#### METODOLOGIE, STRATEGIE E TECNICHE DI INTERVENTO
+##### ● Per migliorare la fiducia di Andrea nelle proprie capacità linguistiche, affrontare la difficoltà a esprimersi verbalmente e allenare le sue capacità attentive si prevede l’intervento dell’educatore. 
  
 Il suo intervento si compone inizialmente di incontri bisettimanali della durata di 50/60 minuti per costruire una relazione di fiducia; per poi ridurre gradualmente la frequenza in base ai progressi dell’utente. 
  
@@ -50,11 +51,11 @@ o La conversazione graduale è una tecnica che mira a stimolare l’iniziativa d
 o Il gioco comprende esercizi di barrage di figure, barrage di semplici sequenze ed esercizi in cui Andrea dovrà trovare le differenze tra due immagini simili tra loro; questi lavori sono finalizzati ad allenare e prolungare le capacità attentive dell’utente
 o L’educatore può proporre degli albi illustrati con immagini semplici e facilmente riconoscibili dal bambino, il quale dovrà nominarle ad alta voce. Questa attività migliorerà le capacità semantiche di Andrea e accrescerà il suo vocabolario. 
  
-● Per ridurre l’utilizzo dei dispositivi elettronici si propongono ai genitori varie attività e strategie da attuare nell’ambiente domestico. 
+##### ● Per ridurre l’utilizzo dei dispositivi elettronici si propongono ai genitori varie attività e strategie da attuare nell’ambiente domestico. 
 o I genitori possono utilizzare la strategia del tempo limitato per impostare nei dispositivi elettronici utilizzati da Andrea, un limite di tempo di massimo quattro ore al giorno (2 ore la mattina e 2 la sera). Per fare questo i genitori possono usare apposite app di monitoraggio. 
 o Per impiegare il tempo libero si consigliano attività sportive gradite al bambino o attività all’aperto insieme ai familiari. 
  
-● Per stabilire una comune linea di azione in vista del conseguimento degli obiettivi prefissati riguardo all’ambiente scolastico, si prevede un colloquio conoscitivo con gli insegnanti che lavorano con il bambino a scuola.
+##### ● Per stabilire una comune linea di azione in vista del conseguimento degli obiettivi prefissati riguardo all’ambiente scolastico, si prevede un colloquio conoscitivo con gli insegnanti che lavorano con il bambino a scuola.
 Si propongono agli insegnanti alcune attività da svolgere con il gruppo classe per agevolare l’interazione tra i bambini, come il gioco del “passaparola” e attività di puzzle cooperativo. 
  
 Inoltre si propone alla famiglia di consultare un logopedista e uno psicologo per attuare con Andrea interventi più specifici di loro competenza.
