@@ -1,9 +1,9 @@
 # Laboratorio sulla progettazione e valutazione dei servizi educativi
 
-#[PROGETTO EDUCATIVO PERSONALIZZATO DI ANDREA Pei]
+# [PROGETTO EDUCATIVO PERSONALIZZATO DI ANDREA Pei]
  
 
-#BREVE DESCRIZIONE DEL CASO
+# BREVE DESCRIZIONE DEL CASO
 Andrea si presenta come un bambino introverso, quasi completamente mutacico. Fortemente consapevole delle sue difficoltà, che generano in lui del disagio. Non presenta nessuna disfunzione uditiva; palato, lingua e tonsille sono normoconformate.
 Andrea ha due fratelli maggiori, di 11 e 13 anni, entrambi appassionati di videogiochi, passione trasmessa anche ad Andrea. I genitori lavorano entrambi in casa, la madre nel seminterrato e il padre in una stanza. Andrea, quando non va scuola, passa il tempo con i fratelli giocando ai videogiochi.
 Andrea non è adeguatamente stimolato ad esprimersi verbalmente nel contesto familiare e di conseguenza comunica maggiormente tramite gesti e versi.
