@@ -1,4 +1,4 @@
-# Laboratorio sulla progettazione e valutazione dei servizi educativi
+<img width="1696" height="950" alt="image" src="https://github.com/user-attachments/assets/4127b123-fa27-4710-94dd-f28371c41ad4" /># Laboratorio sulla progettazione e valutazione dei servizi educativi
 
 ### [PROGETTO EDUCATIVO PERSONALIZZATO DI ANDREA Pei]
  
@@ -13,4 +13,10 @@ Durante la somministrazione dei test Andrea si è mostrato collaborativo.
 La diagnosi fornita dal professionista privato è:
 Disturbo specifico del linguaggio 315.32 (F80.2)
 Disturbo fonetico-fonologico 315.39 (F80.0)
+<img width="1696" height="950" alt="image" src="https://github.com/user-attachments/assets/c301dc14-c516-4547-a924-9662fb442c9d" />
+
+
+
+L'analisi ha riguardo
+
 
